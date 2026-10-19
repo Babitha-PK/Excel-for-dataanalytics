@@ -1,2 +1,2 @@
 # Excel-for-dataanalytics
-Ai powered data analytics
+This repository contain all the excel assignments and files 
